@@ -1,0 +1,6 @@
+numpy
+matplotlib
+selenium
+discord
+asyncio
+opencv
